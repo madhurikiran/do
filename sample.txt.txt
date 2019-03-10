@@ -1,1 +1,2 @@
 git commands everyone can understand and practice
+add: register a change in index
